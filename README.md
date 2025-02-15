@@ -11,7 +11,7 @@
 
 ``httpx`` > *ProjectDiscovery*
 
-build in *rust*
+**build in Rust**
 
 ``cargo run --release``
 
