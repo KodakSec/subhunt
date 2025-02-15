@@ -1,4 +1,4 @@
-# subhunt
+# SubHunt
 SubHunt For Pentest Linux and Windows 
 
 requirements
