@@ -3,27 +3,27 @@ SubHunt For Pentest Linux and Windows
 
 requirements
 
-golang > windows 
-pacman > linux
+``golang`` > *windows*
+``pacman`` > *linux*
 
-subfinder --> 
-httpx --> 
+``subfinder`` > *ProjectDiscovery*
+``httpx`` > *ProjectDiscovery*
 
-build in rust
+build in *rust*
 
 ``cargo run --release``
 
-For windows
+For *windows*
 
 ``go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest``
 
 ``go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest``
 
-For linux
+For *linux*
 
 ``sudo pacman -S httpx && sudo pacman -S subfinder``
 
-credits --> ProjectDiscovery
+credits --> **ProjectDiscovery**
 <p align= "center">
    <kbd>
    <img  src="https://i.postimg.cc/t41mxJ46/image.png">
