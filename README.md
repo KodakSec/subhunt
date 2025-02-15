@@ -1,12 +1,14 @@
 # SubHunt
-SubHunt For Pentest Linux and Windows 
+*SubHunt For Pentest Linux and Windows*
 
-requirements
+**Requirements**
 
 ``golang`` > *windows*
+
 ``pacman`` > *linux*
 
 ``subfinder`` > *ProjectDiscovery*
+
 ``httpx`` > *ProjectDiscovery*
 
 build in *rust*
