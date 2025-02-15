@@ -16,6 +16,7 @@ build in rust
 For windows
 
 ``go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest``
+
 ``go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest``
 
 For linux
